@@ -1,0 +1,19 @@
+body{
+margin:4px;
+border-style:solid;
+}
+h1{
+color:cyan;
+font-family:Arial;
+font-weight:bold;
+}
+.cs{
+color:blue;
+font-size:30pt;
+background-color:green;
+box-shadow:black 20px 20px 20px;
+padding:30px;
+height:500px;
+width:500px;
+}
+

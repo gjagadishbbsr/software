@@ -1,0 +1,18 @@
+h2{
+color:cyan;
+text-align:center;
+background-color:pink;
+box-shadow:black 2px 2px 2px;
+}
+body
+{
+margin:30px;
+}
+p{
+color:green;
+text-align:center;
+}
+h3{
+color:red;
+text-align:center;
+}
